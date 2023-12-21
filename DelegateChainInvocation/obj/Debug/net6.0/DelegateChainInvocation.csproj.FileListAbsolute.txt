@@ -1,0 +1,15 @@
+C:\Users\uzriv\source\repos\DarsgaTayyorgarlik\DelegateChainInvocation\bin\Debug\net6.0\DelegateChainInvocation.exe
+C:\Users\uzriv\source\repos\DarsgaTayyorgarlik\DelegateChainInvocation\bin\Debug\net6.0\DelegateChainInvocation.deps.json
+C:\Users\uzriv\source\repos\DarsgaTayyorgarlik\DelegateChainInvocation\bin\Debug\net6.0\DelegateChainInvocation.runtimeconfig.json
+C:\Users\uzriv\source\repos\DarsgaTayyorgarlik\DelegateChainInvocation\bin\Debug\net6.0\DelegateChainInvocation.dll
+C:\Users\uzriv\source\repos\DarsgaTayyorgarlik\DelegateChainInvocation\bin\Debug\net6.0\DelegateChainInvocation.pdb
+C:\Users\uzriv\source\repos\DarsgaTayyorgarlik\DelegateChainInvocation\obj\Debug\net6.0\DelegateChainInvocation.csproj.AssemblyReference.cache
+C:\Users\uzriv\source\repos\DarsgaTayyorgarlik\DelegateChainInvocation\obj\Debug\net6.0\DelegateChainInvocation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\uzriv\source\repos\DarsgaTayyorgarlik\DelegateChainInvocation\obj\Debug\net6.0\DelegateChainInvocation.AssemblyInfoInputs.cache
+C:\Users\uzriv\source\repos\DarsgaTayyorgarlik\DelegateChainInvocation\obj\Debug\net6.0\DelegateChainInvocation.AssemblyInfo.cs
+C:\Users\uzriv\source\repos\DarsgaTayyorgarlik\DelegateChainInvocation\obj\Debug\net6.0\DelegateChainInvocation.csproj.CoreCompileInputs.cache
+C:\Users\uzriv\source\repos\DarsgaTayyorgarlik\DelegateChainInvocation\obj\Debug\net6.0\DelegateChainInvocation.dll
+C:\Users\uzriv\source\repos\DarsgaTayyorgarlik\DelegateChainInvocation\obj\Debug\net6.0\refint\DelegateChainInvocation.dll
+C:\Users\uzriv\source\repos\DarsgaTayyorgarlik\DelegateChainInvocation\obj\Debug\net6.0\DelegateChainInvocation.pdb
+C:\Users\uzriv\source\repos\DarsgaTayyorgarlik\DelegateChainInvocation\obj\Debug\net6.0\DelegateChainInvocation.genruntimeconfig.cache
+C:\Users\uzriv\source\repos\DarsgaTayyorgarlik\DelegateChainInvocation\obj\Debug\net6.0\ref\DelegateChainInvocation.dll
