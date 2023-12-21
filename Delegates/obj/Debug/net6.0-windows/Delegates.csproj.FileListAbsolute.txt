@@ -1,0 +1,15 @@
+C:\Users\uzriv\source\repos\DarsgaTayyorgarlik\Delegates\bin\Debug\net6.0-windows\Delegates.exe
+C:\Users\uzriv\source\repos\DarsgaTayyorgarlik\Delegates\bin\Debug\net6.0-windows\Delegates.deps.json
+C:\Users\uzriv\source\repos\DarsgaTayyorgarlik\Delegates\bin\Debug\net6.0-windows\Delegates.runtimeconfig.json
+C:\Users\uzriv\source\repos\DarsgaTayyorgarlik\Delegates\bin\Debug\net6.0-windows\Delegates.dll
+C:\Users\uzriv\source\repos\DarsgaTayyorgarlik\Delegates\bin\Debug\net6.0-windows\Delegates.pdb
+C:\Users\uzriv\source\repos\DarsgaTayyorgarlik\Delegates\obj\Debug\net6.0-windows\Delegates.csproj.AssemblyReference.cache
+C:\Users\uzriv\source\repos\DarsgaTayyorgarlik\Delegates\obj\Debug\net6.0-windows\Delegates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\uzriv\source\repos\DarsgaTayyorgarlik\Delegates\obj\Debug\net6.0-windows\Delegates.AssemblyInfoInputs.cache
+C:\Users\uzriv\source\repos\DarsgaTayyorgarlik\Delegates\obj\Debug\net6.0-windows\Delegates.AssemblyInfo.cs
+C:\Users\uzriv\source\repos\DarsgaTayyorgarlik\Delegates\obj\Debug\net6.0-windows\Delegates.csproj.CoreCompileInputs.cache
+C:\Users\uzriv\source\repos\DarsgaTayyorgarlik\Delegates\obj\Debug\net6.0-windows\Delegates.dll
+C:\Users\uzriv\source\repos\DarsgaTayyorgarlik\Delegates\obj\Debug\net6.0-windows\refint\Delegates.dll
+C:\Users\uzriv\source\repos\DarsgaTayyorgarlik\Delegates\obj\Debug\net6.0-windows\Delegates.pdb
+C:\Users\uzriv\source\repos\DarsgaTayyorgarlik\Delegates\obj\Debug\net6.0-windows\Delegates.genruntimeconfig.cache
+C:\Users\uzriv\source\repos\DarsgaTayyorgarlik\Delegates\obj\Debug\net6.0-windows\ref\Delegates.dll
