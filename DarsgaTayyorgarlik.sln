@@ -7,6 +7,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Delegates", "Delegates\Dele
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DelegateChainInvocation", "DelegateChainInvocation\DelegateChainInvocation.csproj", "{F0AF4DA2-54B0-403C-A847-0C9C543C005B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DelegateFromUzbek", "DelegateFromUzbek\DelegateFromUzbek.csproj", "{C88C97C2-C5D9-4276-996B-C646A331CAB3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DelegateFromEnglish", "DelegateFromEnglish\DelegateFromEnglish.csproj", "{370504B1-9D59-4D3B-AE3D-9A88CCF12E6D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{F0AF4DA2-54B0-403C-A847-0C9C543C005B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F0AF4DA2-54B0-403C-A847-0C9C543C005B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F0AF4DA2-54B0-403C-A847-0C9C543C005B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C88C97C2-C5D9-4276-996B-C646A331CAB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C88C97C2-C5D9-4276-996B-C646A331CAB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C88C97C2-C5D9-4276-996B-C646A331CAB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C88C97C2-C5D9-4276-996B-C646A331CAB3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{370504B1-9D59-4D3B-AE3D-9A88CCF12E6D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{370504B1-9D59-4D3B-AE3D-9A88CCF12E6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{370504B1-9D59-4D3B-AE3D-9A88CCF12E6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{370504B1-9D59-4D3B-AE3D-9A88CCF12E6D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

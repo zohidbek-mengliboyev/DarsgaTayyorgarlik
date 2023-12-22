@@ -1,0 +1,15 @@
+C:\Users\uzriv\source\repos\DarsgaTayyorgarlik\DelegateFromUzbek\bin\Debug\net6.0\DelegateFromUzbek.exe
+C:\Users\uzriv\source\repos\DarsgaTayyorgarlik\DelegateFromUzbek\bin\Debug\net6.0\DelegateFromUzbek.deps.json
+C:\Users\uzriv\source\repos\DarsgaTayyorgarlik\DelegateFromUzbek\bin\Debug\net6.0\DelegateFromUzbek.runtimeconfig.json
+C:\Users\uzriv\source\repos\DarsgaTayyorgarlik\DelegateFromUzbek\bin\Debug\net6.0\DelegateFromUzbek.dll
+C:\Users\uzriv\source\repos\DarsgaTayyorgarlik\DelegateFromUzbek\bin\Debug\net6.0\DelegateFromUzbek.pdb
+C:\Users\uzriv\source\repos\DarsgaTayyorgarlik\DelegateFromUzbek\obj\Debug\net6.0\DelegateFromUzbek.csproj.AssemblyReference.cache
+C:\Users\uzriv\source\repos\DarsgaTayyorgarlik\DelegateFromUzbek\obj\Debug\net6.0\DelegateFromUzbek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\uzriv\source\repos\DarsgaTayyorgarlik\DelegateFromUzbek\obj\Debug\net6.0\DelegateFromUzbek.AssemblyInfoInputs.cache
+C:\Users\uzriv\source\repos\DarsgaTayyorgarlik\DelegateFromUzbek\obj\Debug\net6.0\DelegateFromUzbek.AssemblyInfo.cs
+C:\Users\uzriv\source\repos\DarsgaTayyorgarlik\DelegateFromUzbek\obj\Debug\net6.0\DelegateFromUzbek.csproj.CoreCompileInputs.cache
+C:\Users\uzriv\source\repos\DarsgaTayyorgarlik\DelegateFromUzbek\obj\Debug\net6.0\DelegateFromUzbek.dll
+C:\Users\uzriv\source\repos\DarsgaTayyorgarlik\DelegateFromUzbek\obj\Debug\net6.0\refint\DelegateFromUzbek.dll
+C:\Users\uzriv\source\repos\DarsgaTayyorgarlik\DelegateFromUzbek\obj\Debug\net6.0\DelegateFromUzbek.pdb
+C:\Users\uzriv\source\repos\DarsgaTayyorgarlik\DelegateFromUzbek\obj\Debug\net6.0\DelegateFromUzbek.genruntimeconfig.cache
+C:\Users\uzriv\source\repos\DarsgaTayyorgarlik\DelegateFromUzbek\obj\Debug\net6.0\ref\DelegateFromUzbek.dll
