@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "DelegateFromEnglish/1.0.0": {
+        "runtime": {
+          "DelegateFromEnglish.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DelegateFromEnglish/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
