@@ -10,7 +10,7 @@ public class PhotoProcessor
         // filters.ApplyContrast(photo);
         // filters.Resize(photo);
 
-        filterHandler(photo);
+        filterHandler(photo); // filterHandler.Invoke(photo);
 
         photo.Save();
     }
