@@ -1,0 +1,15 @@
+C:\Users\uzriv\source\repos\DarsgaTayyorgarlik\DelegatesAndEvents\bin\Debug\net6.0\DelegatesAndEvents.exe
+C:\Users\uzriv\source\repos\DarsgaTayyorgarlik\DelegatesAndEvents\bin\Debug\net6.0\DelegatesAndEvents.deps.json
+C:\Users\uzriv\source\repos\DarsgaTayyorgarlik\DelegatesAndEvents\bin\Debug\net6.0\DelegatesAndEvents.runtimeconfig.json
+C:\Users\uzriv\source\repos\DarsgaTayyorgarlik\DelegatesAndEvents\bin\Debug\net6.0\DelegatesAndEvents.dll
+C:\Users\uzriv\source\repos\DarsgaTayyorgarlik\DelegatesAndEvents\bin\Debug\net6.0\DelegatesAndEvents.pdb
+C:\Users\uzriv\source\repos\DarsgaTayyorgarlik\DelegatesAndEvents\obj\Debug\net6.0\DelegatesAndEvents.csproj.AssemblyReference.cache
+C:\Users\uzriv\source\repos\DarsgaTayyorgarlik\DelegatesAndEvents\obj\Debug\net6.0\DelegatesAndEvents.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\uzriv\source\repos\DarsgaTayyorgarlik\DelegatesAndEvents\obj\Debug\net6.0\DelegatesAndEvents.AssemblyInfoInputs.cache
+C:\Users\uzriv\source\repos\DarsgaTayyorgarlik\DelegatesAndEvents\obj\Debug\net6.0\DelegatesAndEvents.AssemblyInfo.cs
+C:\Users\uzriv\source\repos\DarsgaTayyorgarlik\DelegatesAndEvents\obj\Debug\net6.0\DelegatesAndEvents.csproj.CoreCompileInputs.cache
+C:\Users\uzriv\source\repos\DarsgaTayyorgarlik\DelegatesAndEvents\obj\Debug\net6.0\DelegatesAndEvents.dll
+C:\Users\uzriv\source\repos\DarsgaTayyorgarlik\DelegatesAndEvents\obj\Debug\net6.0\refint\DelegatesAndEvents.dll
+C:\Users\uzriv\source\repos\DarsgaTayyorgarlik\DelegatesAndEvents\obj\Debug\net6.0\DelegatesAndEvents.pdb
+C:\Users\uzriv\source\repos\DarsgaTayyorgarlik\DelegatesAndEvents\obj\Debug\net6.0\DelegatesAndEvents.genruntimeconfig.cache
+C:\Users\uzriv\source\repos\DarsgaTayyorgarlik\DelegatesAndEvents\obj\Debug\net6.0\ref\DelegatesAndEvents.dll
