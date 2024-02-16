@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\OMEN 16\\Source\\Repos\\DarsgaTayyorgarlik\\Events\\Events.csproj": {}
+    "C:\\Users\\OMEN 16\\source\\repos\\DarsgaTayyorgarlik\\Events\\Events.csproj": {}
   },
   "projects": {
-    "C:\\Users\\OMEN 16\\Source\\Repos\\DarsgaTayyorgarlik\\Events\\Events.csproj": {
+    "C:\\Users\\OMEN 16\\source\\repos\\DarsgaTayyorgarlik\\Events\\Events.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\OMEN 16\\Source\\Repos\\DarsgaTayyorgarlik\\Events\\Events.csproj",
+        "projectUniqueName": "C:\\Users\\OMEN 16\\source\\repos\\DarsgaTayyorgarlik\\Events\\Events.csproj",
         "projectName": "Events",
-        "projectPath": "C:\\Users\\OMEN 16\\Source\\Repos\\DarsgaTayyorgarlik\\Events\\Events.csproj",
+        "projectPath": "C:\\Users\\OMEN 16\\source\\repos\\DarsgaTayyorgarlik\\Events\\Events.csproj",
         "packagesPath": "C:\\Users\\OMEN 16\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\OMEN 16\\Source\\Repos\\DarsgaTayyorgarlik\\Events\\obj\\",
         "projectStyle": "PackageReference",

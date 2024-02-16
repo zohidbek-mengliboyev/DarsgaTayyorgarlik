@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\OMEN 16\\Source\\Repos\\DarsgaTayyorgarlik\\Delegates\\Delegates.csproj": {}
+    "C:\\Users\\OMEN 16\\source\\repos\\DarsgaTayyorgarlik\\Delegates\\Delegates.csproj": {}
   },
   "projects": {
-    "C:\\Users\\OMEN 16\\Source\\Repos\\DarsgaTayyorgarlik\\Delegates\\Delegates.csproj": {
+    "C:\\Users\\OMEN 16\\source\\repos\\DarsgaTayyorgarlik\\Delegates\\Delegates.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\OMEN 16\\Source\\Repos\\DarsgaTayyorgarlik\\Delegates\\Delegates.csproj",
+        "projectUniqueName": "C:\\Users\\OMEN 16\\source\\repos\\DarsgaTayyorgarlik\\Delegates\\Delegates.csproj",
         "projectName": "Delegates",
-        "projectPath": "C:\\Users\\OMEN 16\\Source\\Repos\\DarsgaTayyorgarlik\\Delegates\\Delegates.csproj",
+        "projectPath": "C:\\Users\\OMEN 16\\source\\repos\\DarsgaTayyorgarlik\\Delegates\\Delegates.csproj",
         "packagesPath": "C:\\Users\\OMEN 16\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\OMEN 16\\Source\\Repos\\DarsgaTayyorgarlik\\Delegates\\obj\\",
         "projectStyle": "PackageReference",

@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\OMEN 16\\Source\\Repos\\DarsgaTayyorgarlik\\DelegateChainInvocation\\DelegateChainInvocation.csproj": {}
+    "C:\\Users\\OMEN 16\\source\\repos\\DarsgaTayyorgarlik\\DelegateChainInvocation\\DelegateChainInvocation.csproj": {}
   },
   "projects": {
-    "C:\\Users\\OMEN 16\\Source\\Repos\\DarsgaTayyorgarlik\\DelegateChainInvocation\\DelegateChainInvocation.csproj": {
+    "C:\\Users\\OMEN 16\\source\\repos\\DarsgaTayyorgarlik\\DelegateChainInvocation\\DelegateChainInvocation.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\OMEN 16\\Source\\Repos\\DarsgaTayyorgarlik\\DelegateChainInvocation\\DelegateChainInvocation.csproj",
+        "projectUniqueName": "C:\\Users\\OMEN 16\\source\\repos\\DarsgaTayyorgarlik\\DelegateChainInvocation\\DelegateChainInvocation.csproj",
         "projectName": "DelegateChainInvocation",
-        "projectPath": "C:\\Users\\OMEN 16\\Source\\Repos\\DarsgaTayyorgarlik\\DelegateChainInvocation\\DelegateChainInvocation.csproj",
+        "projectPath": "C:\\Users\\OMEN 16\\source\\repos\\DarsgaTayyorgarlik\\DelegateChainInvocation\\DelegateChainInvocation.csproj",
         "packagesPath": "C:\\Users\\OMEN 16\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\OMEN 16\\Source\\Repos\\DarsgaTayyorgarlik\\DelegateChainInvocation\\obj\\",
         "projectStyle": "PackageReference",

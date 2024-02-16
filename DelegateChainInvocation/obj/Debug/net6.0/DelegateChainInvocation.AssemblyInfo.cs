@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DelegateChainInvocation")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+41e18f6fc6fe0c231f4e50ee1832bf7890fd9746")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+241b96befba39052ac26b9c2d24c0cd503f6811c")]
 [assembly: System.Reflection.AssemblyProductAttribute("DelegateChainInvocation")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DelegateChainInvocation")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
