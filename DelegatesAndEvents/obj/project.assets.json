@@ -8,24 +8,30 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\uzriv\\.nuget\\packages\\": {}
+    "C:\\Users\\OMEN 16\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\uzriv\\source\\repos\\DarsgaTayyorgarlik\\DelegatesAndEvents\\DelegatesAndEvents.csproj",
+      "projectUniqueName": "C:\\Users\\OMEN 16\\Source\\Repos\\DarsgaTayyorgarlik\\DelegatesAndEvents\\DelegatesAndEvents.csproj",
       "projectName": "DelegatesAndEvents",
-      "projectPath": "C:\\Users\\uzriv\\source\\repos\\DarsgaTayyorgarlik\\DelegatesAndEvents\\DelegatesAndEvents.csproj",
-      "packagesPath": "C:\\Users\\uzriv\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\uzriv\\source\\repos\\DarsgaTayyorgarlik\\DelegatesAndEvents\\obj\\",
+      "projectPath": "C:\\Users\\OMEN 16\\Source\\Repos\\DarsgaTayyorgarlik\\DelegatesAndEvents\\DelegatesAndEvents.csproj",
+      "packagesPath": "C:\\Users\\OMEN 16\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\OMEN 16\\Source\\Repos\\DarsgaTayyorgarlik\\DelegatesAndEvents\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
       "configFilePaths": [
-        "C:\\Users\\uzriv\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\OMEN 16\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -59,7 +65,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.416\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -1,25 +1,30 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\uzriv\\source\\repos\\DarsgaTayyorgarlik\\DelegateChainInvocation\\DelegateChainInvocation.csproj": {}
+    "C:\\Users\\OMEN 16\\Source\\Repos\\DarsgaTayyorgarlik\\DelegateChainInvocation\\DelegateChainInvocation.csproj": {}
   },
   "projects": {
-    "C:\\Users\\uzriv\\source\\repos\\DarsgaTayyorgarlik\\DelegateChainInvocation\\DelegateChainInvocation.csproj": {
+    "C:\\Users\\OMEN 16\\Source\\Repos\\DarsgaTayyorgarlik\\DelegateChainInvocation\\DelegateChainInvocation.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\uzriv\\source\\repos\\DarsgaTayyorgarlik\\DelegateChainInvocation\\DelegateChainInvocation.csproj",
+        "projectUniqueName": "C:\\Users\\OMEN 16\\Source\\Repos\\DarsgaTayyorgarlik\\DelegateChainInvocation\\DelegateChainInvocation.csproj",
         "projectName": "DelegateChainInvocation",
-        "projectPath": "C:\\Users\\uzriv\\source\\repos\\DarsgaTayyorgarlik\\DelegateChainInvocation\\DelegateChainInvocation.csproj",
-        "packagesPath": "C:\\Users\\uzriv\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\uzriv\\source\\repos\\DarsgaTayyorgarlik\\DelegateChainInvocation\\obj\\",
+        "projectPath": "C:\\Users\\OMEN 16\\Source\\Repos\\DarsgaTayyorgarlik\\DelegateChainInvocation\\DelegateChainInvocation.csproj",
+        "packagesPath": "C:\\Users\\OMEN 16\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\OMEN 16\\Source\\Repos\\DarsgaTayyorgarlik\\DelegateChainInvocation\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\uzriv\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\OMEN 16\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -53,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.416\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }
