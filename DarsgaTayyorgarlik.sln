@@ -5,15 +5,17 @@ VisualStudioVersion = 17.5.002.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Delegates", "Delegates\Delegates.csproj", "{D37E4BEB-4942-4196-9D6D-4E718E44E472}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DelegateChainInvocation", "DelegateChainInvocation\DelegateChainInvocation.csproj", "{F0AF4DA2-54B0-403C-A847-0C9C543C005B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DelegateChainInvocation", "DelegateChainInvocation\DelegateChainInvocation.csproj", "{F0AF4DA2-54B0-403C-A847-0C9C543C005B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DelegateFromUzbek", "DelegateFromUzbek\DelegateFromUzbek.csproj", "{C88C97C2-C5D9-4276-996B-C646A331CAB3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DelegateFromUzbek", "DelegateFromUzbek\DelegateFromUzbek.csproj", "{C88C97C2-C5D9-4276-996B-C646A331CAB3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DelegateFromEnglish", "DelegateFromEnglish\DelegateFromEnglish.csproj", "{370504B1-9D59-4D3B-AE3D-9A88CCF12E6D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DelegateFromEnglish", "DelegateFromEnglish\DelegateFromEnglish.csproj", "{370504B1-9D59-4D3B-AE3D-9A88CCF12E6D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DelegatesAndEvents", "DelegatesAndEvents\DelegatesAndEvents.csproj", "{298B8CA4-7C6C-41DB-A2D1-50BBD3D05844}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DelegatesAndEvents", "DelegatesAndEvents\DelegatesAndEvents.csproj", "{298B8CA4-7C6C-41DB-A2D1-50BBD3D05844}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Events", "Events\Events.csproj", "{22ACB6B9-314F-434D-BCA8-BB9E88A80130}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Events", "Events\Events.csproj", "{22ACB6B9-314F-434D-BCA8-BB9E88A80130}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UniversityStudents", "UniversityStudents\UniversityStudents.csproj", "{8825522C-EED6-426C-B8A0-313E02C995A7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{22ACB6B9-314F-434D-BCA8-BB9E88A80130}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{22ACB6B9-314F-434D-BCA8-BB9E88A80130}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{22ACB6B9-314F-434D-BCA8-BB9E88A80130}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8825522C-EED6-426C-B8A0-313E02C995A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8825522C-EED6-426C-B8A0-313E02C995A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8825522C-EED6-426C-B8A0-313E02C995A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8825522C-EED6-426C-B8A0-313E02C995A7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
